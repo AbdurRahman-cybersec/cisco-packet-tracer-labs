@@ -4,6 +4,12 @@ Daily Packet Tracer labs and exercises — networking fundamentals, configuratio
 
 ---
 
+## Day 01 — Packet Tracer Introduction
+
+![Day 01 Topology](PT.png)
+
+---
+
 ## Structure
 
 ```
@@ -24,4 +30,4 @@ Each `.pkt` file is a standalone Packet Tracer project. Open with [Cisco Packet 
 
 ---
 
-Built by [Nova (Abdur Rahman Khan)](https://github.com/abdur7561) — M.S. Cybersecurity student, SOC Analyst at USCA.
+Built by [Nova (Abdur Rahman Khan)](https://github.com/AbdurRahman-cybersec) — M.S. Cybersecurity student, SOC Analyst at USCA.
