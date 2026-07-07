@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Packet Tracer backups
+*.pkt.bak
+*.pkz.bak
