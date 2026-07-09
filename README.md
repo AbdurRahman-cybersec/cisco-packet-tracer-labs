@@ -10,11 +10,17 @@ Daily Packet Tracer labs and exercises — networking fundamentals, configuratio
 
 ---
 
+## Day 02 — Connecting Devices
+
+![Day 02 Topology](day%202.png)
+
+---
+
 ## Structure
 
 ```
 Day 01 — Packet Tracer Introduction
-Day 02 — ...
+Day 02 — Connecting Devices
 ...
 ```
 
@@ -27,6 +33,7 @@ Each `.pkt` file is a standalone Packet Tracer project. Open with [Cisco Packet 
 | Day | Topic | Status |
 |---|---|---|
 | 01 | Packet Tracer Introduction | ✅ |
+| 02 | Connecting Devices | ✅ |
 
 ---
 
